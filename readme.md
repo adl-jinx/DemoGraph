@@ -38,6 +38,6 @@ Feel free to explore and experiment with different parameter values to observe t
 
 Please note that this description assumes the presence of additional code and files that may not have been included in the provided code snippets. The provided code snippets should be integrated into a larger project structure for proper execution.
 
-This README provides a brief overview of the Predaprey simulation program, its usage, and the incorporation of the pointer feature for tracking the population values. For more detailed information and instructions, refer to the code comments and documentation within the program files.
 
-Feel free to reach out if you have any questions or need further assistance!
+
+# THIS IS EDUCATIONAL PROJECT
